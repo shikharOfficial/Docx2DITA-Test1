@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="t632fec">
+  <title outputclass="h2" class="- topic/title ">Content Type</title>
+  <body>
+    <p>Requests made to the API must be encoded as JSON and contain the header</p>
+    <p>Content-Type: application/json</p>
+  </body>
+</topic>

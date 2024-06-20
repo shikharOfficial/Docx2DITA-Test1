@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="t6911d7">
+  <title outputclass="h3" class="- topic/title ">Update the Conga Orchestrate App's Logo</title>
+  <body>
+    <p>After you have renamed the Conga Orchestrate App, update the Conga Orchestrate App's logo to reflect current branding. Salesforce functionality does not allow Conga Orchestrate to update the App's logo upon an upgraded installed back.</p>
+    <p>See <xref href="orchestrateupdatingcongaorchestratesapplogo.dita#t259c2f" scope="local" format="dita">Updating Conga Orchestrate's App Logo</xref> for instructions on renaming the Conga Orchestrate App.</p>
+  </body>
+</topic>

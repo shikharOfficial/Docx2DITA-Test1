@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="t6edf0d">
+  <title outputclass="h3" class="- topic/title ">To whitelist OAuth addresses</title>
+  <body>
+    <p>If you are using trusted IP ranges, enter the static IP addresses below in Salesforce Setup.</p>
+  </body>
+</topic>

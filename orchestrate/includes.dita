@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tabb08a">
+  <title outputclass="h2" class="- topic/title ">Includes</title>
+  <body>
+    <p>You can easily include resource relationships on most top-level resources. Multiple includes are defined using comma-delimited values.</p>
+  </body>
+</topic>

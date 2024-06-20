@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="t54375b">
+  <title outputclass="h1" class="- topic/title ">Space Details:</title>
+  <body>
+    <table>
+      <tgroup cols="1">
+        <colspec colname="c1"/>
+        <tbody>
+          <row>
+            <entry>Key</entry>
+            <entry>ORCHESTRATE</entry>
+          </row>
+          <row>
+            <entry>Name</entry>
+            <entry>Orchestrate</entry>
+          </row>
+          <row>
+            <entry>Description</entry>
+            <entry>Define and execute real-world processes end-to-end in a Salesforce environment.</entry>
+          </row>
+          <row>
+            <entry>Created by</entry>
+            <entry>ff80808158f817cb015a186752120004 (Mar 11, 2021)</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>

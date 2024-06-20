@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tf54413">
+  <title outputclass="h2" class="- topic/title ">Caching</title>
+  <body>
+    <p>Server side caching is used and can be configured per request using the cacheStrategy query parameter.</p>
+  </body>
+</topic>

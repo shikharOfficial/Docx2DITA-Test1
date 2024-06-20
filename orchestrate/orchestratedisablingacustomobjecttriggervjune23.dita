@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="tcf9b5c">
+  <title outputclass="h1" class="- topic/title ">Orchestrate : .Disabling a Custom Object Trigger vJune-23</title>
+  <shortdesc>Created by  William Abernathy on Aug 29, 2023</shortdesc>
+  <taskbody>
+    <context>Conga Orchestrate gives you the ability to disable custom object triggers created through the setup wizard with the following steps.</context>
+    <steps>
+      <step>
+        <cmd>Adding a checkbox field to the Conga Orchestrate Settings custom setting called 'Disable_{Namespace}_{Object_Name}_Trigger' allows custom object triggers to be disabled like standard object triggers.
+              
+                A single underscore between the namespace and the object name is important if there is a namespace. The case does not matter.</cmd>
+      </step>
+      <step>
+        <cmd>When the checkbox is selected, the trigger is disabled and will not run.</cmd>
+      </step>
+    </steps>
+    <postreq>
+    </postreq>
+  </taskbody>
+</task>
