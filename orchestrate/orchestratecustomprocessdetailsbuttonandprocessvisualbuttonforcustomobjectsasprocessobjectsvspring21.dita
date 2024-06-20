@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="t52fad0">
-  <title outputclass="h1" class="- topic/title ">Orchestrate : .Custom Process Details Button and Process Visual Button for Custom Objects as Process Objects vSpring-21</title>
-  <body>
-    <p>Created by  Rakesh Singh on Jul 08, 2021</p>
-    <p>If you configured your own custom object as a process object, you must create a custom Process Details and Process Visual button and add them to any applicable page layouts. These buttons are already created for the Campaign, Case, Contract, Lead, Opportunity, and Business Process objects when you installed Conga Orchestrate.</p>
-  </body>
-</topic>

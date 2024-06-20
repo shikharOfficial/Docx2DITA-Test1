@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="t2aed97">
-  <title outputclass="h4" class="- topic/title ">Add Approvals Lightning Component</title>
-  <body>
-    <p>If you customized your Task page layouts or Process Task page layouts in the Lightning App Builder, you will need to manually add the Approval Item Lightning component to your Lightning Pages.</p>
-    <p>You can also add a Lightning Component to your Process Object to manage all related Approvals. For more information, see <xref href="orchestrateusealightningcomponenttomanageapprovalsforaprocessobjectvoctober23.dita#t181f97" scope="local" format="dita">Use a Lightning Component to Manage Approvals for a Process Object</xref>.</p>
-  </body>
-</topic>

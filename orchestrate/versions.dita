@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="tde3c37">
-  <title outputclass="h2" class="- topic/title ">Versions</title>
-  <body>
-    <p>The Orchestrate API ensures backward compatibility by properly versioning any changes to the APIs. Should changes to the API structure need to be made, it will occur within a new version and older functionality will be preserved.</p>
-  </body>
-</topic>

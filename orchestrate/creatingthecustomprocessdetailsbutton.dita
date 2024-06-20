@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="t76cda3">
-  <title outputclass="h2" class="- topic/title ">Creating the Custom Process Details Button</title>
-  <body>
-    <p>If you desire to export the information from a process object to Excel or display it on screen, you can create a custom Process Details button on any object used as a process object. The Excel output displays any steps that have been completed, are in process, or maybe created in the future.</p>
-  </body>
-</topic>

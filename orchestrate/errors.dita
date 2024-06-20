@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="tee3dea">
-  <title outputclass="h2" class="- topic/title ">Errors</title>
-  <body>
-    <p>Any request that returns an error follows a standard format. The Orchestrate Import API will return an object that contains a list of errors with the import, the import status, and definition Ids imported</p>
-  </body>
-</topic>

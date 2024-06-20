@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="t463eca">
-  <title outputclass="h4" class="- topic/title ">Add Checklists Lightning Component</title>
-  <body>
-    <p>If you customized your Task page layouts or Process Task page layouts in the Lightning App Builder, you will need to manually add the Checklist Lightning component to your Lightning Pages.</p>
-  </body>
-</topic>

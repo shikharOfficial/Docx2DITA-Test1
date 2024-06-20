@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="tba97b5">
-  <title outputclass="h3" class="- topic/title ">Remove the PCE - Settings Tab</title>
-  <body>
-    <p>The PCE - Settings tab is no longer used in the latest version of Conga Orchestrate. All components of PCE - Settings are now found in Conga Orchestrate Setup. Current Salesforce limitations prevent the Conga Orchestrate installed package from deleting the tab.</p>
-    <p>See <xref href="orchestratedeletingthepcesettingstabafterupgradingcongaorchestratevoctober23.dita#t729c66" scope="local" format="dita">Deleting the PCE - Settings Tab After Upgrading Conga Orchestrate</xref> for instructions on deleting the PCE - Settings tab.</p>
-  </body>
-</topic>

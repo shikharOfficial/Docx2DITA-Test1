@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="t776fdc">
-  <title outputclass="h3" class="- topic/title ">Stages</title>
-  <body>
-    <p><xref href="orchestrateprocessstages.dita#t4a712d" scope="local" format="dita">Stages</xref> in Conga Orchestrate enable you to group related steps to complete before a child step is kicked off. We've heard of Conga Orchestrate users grouping steps in stages for the way they appear in the Visual view. Using staging this way may have unintended consequences and is not recommended. Also, step-back loops cannot be used within a stage. </p>
-  </body>
-</topic>
