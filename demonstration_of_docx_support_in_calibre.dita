@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                            <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+                            <concept id="m5785094" xml:lang="en-us"><title class="- topic/title " id="_Toc359077851">Demonstration of DOCX support in calibre</title>
+                
+                
+            
+            <conbody>
+                <p id="Para01">This document <xref href="./demonstration_of_docx_support_in_calibre.dita#m5785094/Para01">demonstrates</xref> the ability of the calibre DOCX Input plugin to convert the various typographic features in a Microsoft Word (2007 and newer) document. Convert this document to a modern ebook format, such as AZW3 for Kindles or EPUB for other ebook readers, to see it in action.</p><p id="Para02">There is support for images, <xref href="./demonstration_of_docx_support_in_calibre.dita#m5785094/Para02">tables</xref>, lists, footnotes, endnotes, links, dropcaps and various types of text and paragraph level formatting.</p><p>To see the DOCX conversion in action, simply add this file to calibre using the <b>“Add Books” </b>button and then click “<b>Convert”. </b> Set the output format in the top right corner of the conversion dialog to EPUB or AZW3 and click <b>“OK”</b>.</p></conbody></concept>
